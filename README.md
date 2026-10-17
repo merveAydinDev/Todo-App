@@ -32,7 +32,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/merveAydinDev/todo-app.git](https://github.com/merveAydinDev/todo-app.git)
+   git clone https://github.com/merveAydinDev/todo-app.git
 
 2. Proje dizinine girin:
     ```bash
