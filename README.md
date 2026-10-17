@@ -1,16 +1,53 @@
-# React + Vite
+# 📝 React Görev Takip Uygulaması (Todo App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern web teknolojileri kullanılarak geliştirilmiş, görevlerinizi öncelik sırasına göre takip edebileceğiniz ve verilerinizi tarayıcınızda güvenle saklayan bir görev yönetim uygulamasıdır.
 
-Currently, two official plugins are available:
+## 🚀 Özellikler (Features)
+- **Görev Ekleme (Create):** Farklı öncelik seviyelerine (High, Medium, Low) sahip yeni görevler oluşturma[cite: 1].
+- **Listeleme (Read):** Eklenen görevleri şık ve okunaklı bir arayüzde görüntüleme[cite: 1].
+- **Güncelleme (Update):** Tek tıkla (checkbox) görevleri tamamlandı/tamamlanmadı olarak işaretleme[cite: 1].
+- **Silme (Delete):** İstenmeyen veya tamamlanan görevleri listeden kaldırma[cite: 1].
+- **Veri Kalıcılığı:** LocalStorage entegrasyonu sayesinde sayfa yenilense bile verilerin kaybolmaması[cite: 1].
+- **Dinamik Renkler:** Öncelik durumuna göre değişen rozet (badge) tasarımları.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Kullanılan Teknolojiler (Tech Stack)
+- **Frontend Framework:** React.js (Vite ile oluşturuldu)[cite: 1]
+- **Stil Kütüphanesi:** Tailwind CSS[cite: 1]
+- **Veritabanı:** Tarayıcı LocalStorage API[cite: 1]
+- **Sürüm Kontrolü:** Git & GitHub
 
-## React Compiler
+## 📸 Ekran Görüntüsü
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Uygulama Ana Ekran](./screenshots/Main_Screen.png)
 
-## Expanding the ESLint configuration
+![Ekle](./screenshots/Add.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Güncelle](./screenshots/Update.png)
+
+![Sil](./screenshots/Delete.png)
+
+## 💻 Kurulum ve Çalıştırma (Installation)
+
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+1. Repoyu bilgisayarınıza klonlayın:
+   ```bash
+   git clone [https://github.com/KULLANICI_ADIN/todo-app.git](https://github.com/KULLANICI_ADIN/todo-app.git)
+
+2. Proje dizinine girin:
+    ```bash
+    cd todo-app
+
+3. Bağımlılıkları yükleyin:
+    ```bash
+    npm install
+
+4. Geliştirici sunucusunu başlatın:
+    ```bash
+    npm run dev
+
+## ✉️ İletişim
+
+Merve Aydın
+
+GitHub: @merveAydinDev
