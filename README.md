@@ -3,17 +3,17 @@
 Modern web teknolojileri kullanılarak geliştirilmiş, görevlerinizi öncelik sırasına göre takip edebileceğiniz ve verilerinizi tarayıcınızda güvenle saklayan bir görev yönetim uygulamasıdır.
 
 ## 🚀 Özellikler (Features)
-- **Görev Ekleme (Create):** Farklı öncelik seviyelerine (High, Medium, Low) sahip yeni görevler oluşturma[cite: 1].
-- **Listeleme (Read):** Eklenen görevleri şık ve okunaklı bir arayüzde görüntüleme[cite: 1].
-- **Güncelleme (Update):** Tek tıkla (checkbox) görevleri tamamlandı/tamamlanmadı olarak işaretleme[cite: 1].
-- **Silme (Delete):** İstenmeyen veya tamamlanan görevleri listeden kaldırma[cite: 1].
-- **Veri Kalıcılığı:** LocalStorage entegrasyonu sayesinde sayfa yenilense bile verilerin kaybolmaması[cite: 1].
+- **Görev Ekleme (Create):** Farklı öncelik seviyelerine (High, Medium, Low) sahip yeni görevler oluşturma.
+- **Listeleme (Read):** Eklenen görevleri şık ve okunaklı bir arayüzde görüntüleme.
+- **Güncelleme (Update):** Tek tıkla (checkbox) görevleri tamamlandı/tamamlanmadı olarak işaretleme.
+- **Silme (Delete):** İstenmeyen veya tamamlanan görevleri listeden kaldırma.
+- **Veri Kalıcılığı:** LocalStorage entegrasyonu sayesinde sayfa yenilense bile verilerin kaybolmaması.
 - **Dinamik Renkler:** Öncelik durumuna göre değişen rozet (badge) tasarımları.
 
 ## 🛠️ Kullanılan Teknolojiler (Tech Stack)
-- **Frontend Framework:** React.js (Vite ile oluşturuldu)[cite: 1]
-- **Stil Kütüphanesi:** Tailwind CSS[cite: 1]
-- **Veritabanı:** Tarayıcı LocalStorage API[cite: 1]
+- **Frontend Framework:** React.js (Vite ile oluşturuldu)
+- **Stil Kütüphanesi:** Tailwind CSS
+- **Veritabanı:** Tarayıcı LocalStorage API
 - **Sürüm Kontrolü:** Git & GitHub
 
 ## 📸 Ekran Görüntüsü
