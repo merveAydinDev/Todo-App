@@ -26,6 +26,12 @@ Modern web teknolojileri kullanılarak geliştirilmiş, görevlerinizi öncelik 
 
 ![Sil](./screenshots/Delete.png)
 
+![Netlify](./screenshots/Netlify.png)
+
+## 🚀 Canlı Demo
+
+[Uygulamayı İncelemek İçin Tıklayın](https://wondrous-boba-41c381.netlify.app)
+
 ## 💻 Kurulum ve Çalıştırma (Installation)
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
